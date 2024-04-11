@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Solicitação de Visita">e7bc99289361021016be398efaba1000</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 14:14:36</sys_created_on>
+        <sys_id>a22f5de89361021016be398efaba102a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Solicitação de Visita</sys_name>
+        <sys_package display_value="Visitas" source="x_1343313_snc_vst">bcb25bae93d1021016be398efaba1032</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">bcb25bae93d1021016be398efaba1032</sys_scope>
+        <sys_update_name>sc_cat_item_category_a22f5de89361021016be398efaba102a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 14:14:36</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitas">bcb25bae93d1021016be398efaba1032</application>
+        <file_path/>
+        <instance_id>98f521b9db79fdd005ef1729139619e0</instance_id>
+        <instance_name>dev182628</instance_name>
+        <name>sc_cat_item_category_a22f5de89361021016be398efaba102a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitação de Visita">e7bc99289361021016be398efaba1000</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-10 14:14:36</sys_created_on><sys_id>a22f5de89361021016be398efaba102a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.Solicitação de Visita</sys_name><sys_package display_value="Visitas" source="x_1343313_snc_vst">bcb25bae93d1021016be398efaba1032</sys_package><sys_policy/><sys_scope display_value="Visitas">bcb25bae93d1021016be398efaba1032</sys_scope><sys_update_name>sc_cat_item_category_a22f5de89361021016be398efaba102a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-10 14:14:36</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>180505914</payload_hash>
+        <record_name>Departmental Services.Solicitação de Visita</record_name>
+        <reverted_from/>
+        <source>f0b25bae93d1021016be398efaba1037</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 14:14:36</sys_created_on>
+        <sys_id>6a2f5de89361021016be398efaba103a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ec85c4ea50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 14:14:36</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ea2f5de8f26102106208254775986c39</update_guid>
+        <update_guid_history>ea2f5de8f26102106208254775986c39:180505914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.Solicitação de Visita">397fd12c9361021016be398efaba10e6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-10 14:15:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>055ea5274b3149c8803008c591199304</sys_id>
+        <sys_metadata>a22f5de89361021016be398efaba102a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Solicitação de Visita</sys_name>
+        <sys_package display_value="Visitas" source="x_1343313_snc_vst">bcb25bae93d1021016be398efaba1032</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">bcb25bae93d1021016be398efaba1032</sys_scope>
+        <sys_scope_delete display_value="">0e52b4d49a204dec8294988daf633e10</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a22f5de89361021016be398efaba102a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a22f5de89361021016be398efaba102a">6a2f5de89361021016be398efaba103a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-10 14:15:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

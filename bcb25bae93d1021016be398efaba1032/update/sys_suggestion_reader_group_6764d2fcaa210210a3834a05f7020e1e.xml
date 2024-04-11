@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Visitas - Workspace Search">ef64d2fc6a21021098bb3aa0bcd7c81a</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-11 12:45:51</sys_created_on>
+        <sys_id>6764d2fcaa210210a3834a05f7020e1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Visitas" source="x_1343313_snc_vst">bcb25bae93d1021016be398efaba1032</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">bcb25bae93d1021016be398efaba1032</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_6764d2fcaa210210a3834a05f7020e1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-11 12:45:51</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

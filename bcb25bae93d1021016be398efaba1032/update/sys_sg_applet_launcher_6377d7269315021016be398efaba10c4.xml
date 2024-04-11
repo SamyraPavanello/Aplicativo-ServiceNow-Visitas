@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Visitas</name>
+        <required_roles>x_1343313_snc_vst.admin,x_1343313_snc_vst.gestor,x_1343313_snc_vst.usuario</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 17:52:28</sys_created_on>
+        <sys_id>6377d7269315021016be398efaba10c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitas</sys_name>
+        <sys_package display_value="Visitas" source="x_1343313_snc_vst">bcb25bae93d1021016be398efaba1032</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">bcb25bae93d1021016be398efaba1032</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_6377d7269315021016be398efaba10c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 17:52:28</sys_updated_on>
+        <title>Visitas</title>
+    </sys_sg_applet_launcher>
+</record_update>

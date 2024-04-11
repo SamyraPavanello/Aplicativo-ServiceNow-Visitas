@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Company)">90875b269315021016be398efaba1022</button>
+        <item_parameter display_value="Company country">14875b269315021016be398efaba1005</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 17:52:31</sys_created_on>
+        <sys_id>90875b269315021016be398efaba102a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>14875b269315021016be398efaba1005</sys_name>
+        <sys_package display_value="Visitas" source="x_1343313_snc_vst">bcb25bae93d1021016be398efaba1032</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">bcb25bae93d1021016be398efaba1032</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_90875b269315021016be398efaba102a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 17:52:31</sys_updated_on>
+        <ui_parameter display_value="Country">90875b269315021016be398efaba1026</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
